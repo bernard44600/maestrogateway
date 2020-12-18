@@ -1,8 +1,8 @@
-[![Build](https://github.com/Chibald/MaestroGateway/workflows/Build/badge.svg)](https://github.com/Chibald/maestrogateway/actions?query=workflow%3ABuild)
-[![Standalone](https://github.com/Chibald/MaestroGateway/workflows/Standalone/badge.svg)](https://github.com/Chibald/maestrogateway/actions?query=workflow%3AStandalone)
-[![Daemon Service](https://github.com/Chibald/MaestroGateway/workflows/Daemon%20Service/badge.svg)](https://github.com/Chibald/maestrogateway/actions?query=workflow%3A%22Daemon+Service%22)
+[![Build](https://github.com/tharts/MaestroGateway/workflows/Build/badge.svg)](https://github.com/tharts/maestrogateway/actions?query=workflow%3ABuild)
+[![Standalone](https://github.com/tharts/MaestroGateway/workflows/Standalone/badge.svg)](https://github.com/tharts/maestrogateway/actions?query=workflow%3AStandalone)
+[![Daemon Service](https://github.com/tharts/MaestroGateway/workflows/Daemon%20Service/badge.svg)](https://github.com/tharts/maestrogateway/actions?query=workflow%3A%22Daemon+Service%22)
 
-![Warning](https://github.com/Chibald/maestrogateway/blob/master/docs/disclaimer.png)
+![Warning](https://github.com/tharts/maestrogateway/blob/master/docs/disclaimer.png)
 
 
 This is a script for relaying messages to a MCZ Maestro pellet stove. All of this software is provided AS-IS with no implied warranty or liability under sections 15, and 16 of the GPL V3. So if your stove burns down your house, it's not my fault.
